@@ -1,0 +1,31 @@
+.odstep {
+    height: 40px;
+}
+
+.odstep1 {
+    height: 20px;
+}
+
+tr {
+    vertical-align: middle;
+}
+
+img:hover {
+-o-transition: all 0.6s;
+-moz-transition: all 0.6s;
+-webkit-transition: all 0.6s;
+-moz-transform: scale(1.15);
+-o-transform: scale(1.15);
+-webkit-transform: scale(1.15);
+
+}
+
+.card:hover{
+-o-transition: all 0.6s;
+-moz-transition: all 0.6s;
+-webkit-transition: all 0.6s;
+-moz-transform: scale(1.05);
+-o-transform: scale(1.05);
+-webkit-transform: scale(1.05);
+
+}
